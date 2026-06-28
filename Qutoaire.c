@@ -1,3 +1,6 @@
+#include <stdio.h>
+#include <string.h>
+
 int main() {
     Zona zonas[ZONAS]; // Declaración del array de estructuras
 
